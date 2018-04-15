@@ -5,12 +5,12 @@ A simple project to demonstrate implementing the Mandelbrot Set in Lua, using LO
 ![alt text](https://github.com/ArkUmbra/LuaMandelbrot/blob/master/GeneratedImages/image.png "Example generated image")
 
 # Controls
-Up arrow - pan up
-Down arrow - pan down
-Left arrow - pan left
-Right arrow - pan right
-W - zoom in
-S - zoom out
+* Up arrow - pan up
+* Down arrow - pan down
+* Left arrow - pan left
+* Right arrow - pan right
+* W - zoom in
+* S - zoom out
 
 # Notes
 
